@@ -1,1 +1,1 @@
-My first readme
+Am tried of doing the project twice
